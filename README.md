@@ -1,4 +1,9 @@
 ```js
+// === AUTHORHEADER ===
+// @SpcFORK
+// $module: true
+// === ===
+
 /** {{DRN}} - {{DRDISC}} */
 // © SpcFORK, SpectCOW {{YEAR}}
 {{COLABR}}
