@@ -1,6 +1,7 @@
 ```js
 /** {{DRN}} - {{DRDISC}} */
-// © SpcFORK, SpectCOW {{YEAR}} 
+// © SpcFORK, SpectCOW {{YEAR}}
+{{COLABR}}
 /* 
     ,""""""""""""""""",^,"""""""""""",                  
   .l ?]]]]]]]]]]]]]]]].~.????????????.I                 
