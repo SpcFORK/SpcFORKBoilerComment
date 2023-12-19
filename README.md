@@ -1,5 +1,5 @@
 ```js
-// dice-hydrate - A useless adition to improve your dice experience
+/** {{DRN}} - {{DRDISC}} */
 // © SpcFORK, SpectCOW 2023 
 /* 
     ,""""""""""""""""",^,"""""""""""",                  
